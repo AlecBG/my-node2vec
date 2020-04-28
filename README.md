@@ -1,0 +1,1 @@
+A simple implementation of node2vec in Java. This uses bigrams and negative sampling.
